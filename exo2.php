@@ -45,8 +45,10 @@ class calculatrice {
 
 }
 
-echo test();
+
 ?>
+
+<h1 class="test">test</h1>
   
 </body>
 </html>
