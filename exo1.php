@@ -88,7 +88,7 @@ class Film {
 $movie1 = new Film(1, 'La communauté de l\'anneau', 'Peter Jackson', 2001);
 $movie1->describe();
 
-$movie2 = new Film (2, 'Les deux tours', 'Alain Berberian', 2002);
+$movie2 = new Film (2, 'Les deux tours', 'Peter jackson', 2002);
 $movie2->describe();
 
 $movie3 = new Film (3, 'Le retour du roi', 'Peter Jackson', 2003);
