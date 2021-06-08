@@ -45,6 +45,7 @@ class calculatrice {
 
 }
 
+echo $c1;
 
 ?>
 
